@@ -1,0 +1,6 @@
+<style>
+[data-testid="stAppViewContainer"] {
+background-image:url(https://i.postimg.cc/FdFLSY18/left-top.png),url(https://i.postimg.cc/1nWNryqt/right-bottom.png);
+background-position:100px 100px, 90% 100px;
+background-repeat:no-repeat;
+</style>
