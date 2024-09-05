@@ -19,5 +19,8 @@ This project focuses on automatically classifying web articles into different ca
 * Application in suggestion system: Helps news websites recommend articles that match readers' interests.
 
 ## Result
+### WordCloud of each label
 ![img](img1.png)
 ![img](img2.png)
+### Webapp Source Code
+![img](img3.png)
